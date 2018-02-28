@@ -3,7 +3,7 @@
 Construct a deepSets model based on this article https://arxiv.org/pdf/1703.06114.pdf to predict the sum of digit and MNIST
 
 ### Technology
-The implementation is based on python 2.7 and use pytorch
+The implementation is based on python 2.7 and uses pytorch
 
 ### Docker
 The notebook can be executed with the docker image maxence27/deep_learning:V2
